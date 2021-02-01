@@ -4,7 +4,7 @@ How it works: Caspbot uses the BeautifulSoup4 module to scrape a website with we
 
 Twitter: @caspbot 
 
-Video demo :https://www.youtube.com/watch?v=yXnykgRm15I&feature=youtu.be
+Video demo :https://www.youtube.com/watch?v=yXnykgRm15I
 
 
 
