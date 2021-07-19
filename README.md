@@ -8,4 +8,4 @@ Video demo : [Youtube](https://www.youtube.com/watch?v=yXnykgRm15I)
 
 
 
-Any suggestions: [@cyanaspect](https://twitter.com/cyanaspect) on twitter.
+Any suggestions: [@cyanaspect](https://twitter.com/kelvinou01) on twitter.
